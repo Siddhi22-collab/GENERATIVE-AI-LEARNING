@@ -8,6 +8,6 @@ llm = HuggingFacePipeline.from_model_id(
 
 model = ChatHuggingFace(llm=llm)
 
-result = model.invoke("who is the president of india")
+result = model.invoke("what is the captal of india")
 
 print(result.content)
