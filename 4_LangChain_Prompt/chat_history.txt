@@ -1,0 +1,5 @@
+User: Hi
+Assistant: Hello
+
+User: I ordered a laptop
+Assistant: Please share your order ID
